@@ -17,11 +17,12 @@ export const EXPERIENCES = [
   },
   {
     year: "2024 - Present",
-    role: "Teaching Assitent",
+    role: "Teaching Assistant",
     company: "Itahari International College",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["Python" ,"mySQL"],
+    description: `Assisted professors in conducting programming and database courses, provided support to students in understanding complex concepts in Python and mySQL, helped in grading assignments, and facilitated lab sessions. Engaged in one-on-one tutoring sessions to enhance student learning and performance.`,
+    technologies: ["Python", "mySQL"],
   }
+  
 ];
 
 export const PROJECTS = [
