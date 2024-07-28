@@ -102,6 +102,7 @@ const Technologies = () => {
           <SiSocketdotio className="text-7xl  m-2" />
         </motion.div>
       </motion.div>
+    
     </div>
   );
 };

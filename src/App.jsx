@@ -5,6 +5,7 @@ import Project from "./Components/Project";
 import Technologies from "./Components/Technologies";
 import About from "./Components/about";
 import Contact from "./Components/contact";
+import Contribution from "./Components/contribution";
 
 export default function App() {
   return (
@@ -18,10 +19,10 @@ export default function App() {
         <Hero/>
         <About/>
         <Technologies/>
+          <Contribution/>
         <Experience/>
         <Project/>
         <Contact/>
-    <contact/>
         </div>
       </div>
   )

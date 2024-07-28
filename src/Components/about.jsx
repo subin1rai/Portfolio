@@ -6,6 +6,7 @@ import { motion } from "framer-motion"
 const About = () => {
   return (
     <div className='border-b border-neutral-900 pb-4 '>
+      
      <motion.h1 
         whileHover={{ scale: 1.2 }}
         whileTap={{ scale: 1.1 }}
